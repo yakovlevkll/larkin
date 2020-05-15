@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[40],{630:function(t,e,n){"use strict";n.r(e);var r={computed:{projectName:function(){return"Ларкин"}}},s=n(10),c=Object(s.a)(r,(function(){var t=this.$createElement;return(this._self._c||t)("a",{attrs:{href:"/"}},[this._v(this._s(this.projectName))])}),[],!1,null,null,null);e.default=c.exports}}]);
